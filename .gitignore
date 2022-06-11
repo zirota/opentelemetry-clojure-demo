@@ -1,0 +1,8 @@
+.nrepl-port
+.lsp/
+.cpcache/
+.clj-kondo/
+.calva/
+logs/
+classes/
+opentelemetry-javaagent.jar
